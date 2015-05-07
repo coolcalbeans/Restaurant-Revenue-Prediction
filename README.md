@@ -17,6 +17,7 @@ Results:
 Ended the competition ranked 1238/2257. Happy to have beaten the sample and random forest benchmark but probably could have done better, if I had notice the sample validations faults earlier. Or had a teammate along.
 
 To Do:
+
 a) Understand why the Grid search was not resulting with the optimized model equal to the initial exploratory model even though I had necessary parameters in the Grid Search for GBRT and the exploratory model had better MSE.
 
 b) Could potentially rework and predict revenues again but there would no way to validate an in improvement since we don’t have the revenues for the test data to validate against.
